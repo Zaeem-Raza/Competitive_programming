@@ -1,3 +1,4 @@
+// Leetcode
 #include <bits/stdc++.h>
 using namespace std;
 bool are_anagrams(string s1, string s2)
@@ -8,7 +9,6 @@ bool are_anagrams(string s1, string s2)
 }
 vector<vector<string>> groupOfAnagrams(vector<string> strs)
 {
-
     vector<vector<string>> ans;
     for (int i = 0; i < strs.size() - 1; i++)
     {
