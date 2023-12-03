@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "g:/Cpp/CP REPO/Competitive_programming",
-      "program": "g:/Cpp/CP REPO/Competitive_programming/build/Debug/outDebug",
+      "cwd": "c:/Users/zaeem/OneDrive/Desktop/CP/Competitive_programming",
+      "program": "c:/Users/zaeem/OneDrive/Desktop/CP/Competitive_programming/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
